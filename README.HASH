@@ -2,6 +2,6 @@ Abrar Mahi
 
 This program implements a spell checker using hash tables as words from a dictionary
 are added to a hash map to then be compared with those of another word file.
-If the words of the worcfile do not match that of the dictionary, they are altered in 
+If the words of the wordfile do not match that of the dictionary, they are altered in 
 3 cases in order to be corrected to the words of that in the dictionary. Collisions are 
 handled using Linear probing, quiadratic probing or double hashing
